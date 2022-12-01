@@ -1,0 +1,1 @@
+# First AOC in Rust !
